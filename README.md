@@ -21,6 +21,7 @@
 ## Drivers
 
 - [HsfPlus.efi](https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi)
+- [OpenCanopy.efi](https://github.com/acidanthera/OpenCorePkg/releases)
 - [OpenRuntime.efi](https://github.com/acidanthera/OpenCorePkg/releases)
 
 ## Kexts
